@@ -1,0 +1,14 @@
+{
+  "name": "HackWEbers Chess",
+  "version": "1.0.0",
+  "description": "HackWEbers Chess game",
+  "main": "Hackweberschess.js",
+  "scripts": {
+    "start": "http-server ./"
+  },
+  "author": "Devansh Kothari and Bajrang Kumar Saw",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  }
+}
