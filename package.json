@@ -6,7 +6,7 @@
   "scripts": {
     "start": "http-server ./"
   },
-  "author": "Devansh Kothari and Bajrang Kumar Saw",
+  "author": "Devansh Kothari",
   "license": "ISC",
   "dependencies": {
     "http-server": "^0.9.0"
